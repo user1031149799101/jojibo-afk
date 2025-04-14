@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jojibo-afk! You can call me Grace. My pronouns are she/her/hers.
+- 👋 Hi, I’m user1031149799101! You can call me Grace. My pronouns are she/her/hers.
 - 👀 I’m interested in full-stack development!
 - 🌱 I’m currently self-studying the the Korean Language, and coding at The Odin Project.
 - 💞️ I’m looking to collaborate on beginner projects.
