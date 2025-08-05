@@ -1,6 +1,5 @@
 # Kamusta, ako si Grace! (Hello, my name is Grace!)
 
-╰┈➤ 🌱 I work using Microsoft 365 and automation tools to streamline daily tasks while learning web development.<br>
 ╰┈➤ 🎯 I’m exploring **full-stack development** through [The Odin Project](https://www.theodinproject.com/) and other resources.<br>
 ╰┈➤ 💬 I’m open to collaborating on **beginner-friendly projects**. (Let’s learn and build together! :D)<br>
 ╰┈➤ 📫 If you would like to connect, you can find me on Discord!<br>
